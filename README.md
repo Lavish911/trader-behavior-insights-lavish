@@ -122,7 +122,7 @@ That's it! The dashboard will load sample data automatically or you can upload y
 
 This project is created for educational and portfolio purposes.
 
-## 👨‍💻 Author
+
 
 Created as part of a Junior Data Scientist application demonstrating analytical capabilities in cryptocurrency trading and market sentiment analysis.
 
